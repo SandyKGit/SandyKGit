@@ -1,3 +1,0 @@
-# SandyKGit
-
-Updating Readme file
